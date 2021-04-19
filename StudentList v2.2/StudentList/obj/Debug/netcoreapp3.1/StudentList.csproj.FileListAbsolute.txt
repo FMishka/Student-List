@@ -1,0 +1,76 @@
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.csprojAssemblyReference.cache
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\App.g.cs
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.cache
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.lref
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.g.resources
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.csprojAssemblyReference.cache
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\App.g.cs
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.cache
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.lref
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.g.resources
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\Отложенные\StudentList\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList v2.0\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.csprojAssemblyReference.cache
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\App.g.cs
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.cache
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.lref
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.g.resources
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList v2.0\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList v2.1\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.csprojAssemblyReference.cache
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\App.g.cs
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.cache
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList_MarkupCompile.lref
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.g.resources
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\.creations\C# Projects\StudentList v2.1\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache
