@@ -1,0 +1,5 @@
+C:\Users\roytm\Desktop\StudentList\StudentList.exe
+C:\Users\roytm\Desktop\StudentList\StudentList.dll
+C:\Users\roytm\Desktop\StudentList\StudentList.deps.json
+C:\Users\roytm\Desktop\StudentList\StudentList.runtimeconfig.json
+C:\Users\roytm\Desktop\StudentList\StudentList.pdb
